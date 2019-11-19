@@ -5,5 +5,4 @@
 - This app using TFLite with Tiny Yolov2 and SSD models to perform object detection
 
 
-<img src ="images/signin.JPG">
-<img src ="images/home.JPG">
+<img src ="images/signin.JPG"> <img src ="images/home.JPG">
