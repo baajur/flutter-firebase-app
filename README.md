@@ -6,3 +6,4 @@
 
 
 <img src ="images/signin.JPG">
+<img src ="images/home.JPG">
